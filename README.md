@@ -7,8 +7,8 @@ I'm a **Full-Stack Developer** passionate about building scalable and performant
 - 🔭 I'm currently working on full-stack TypeScript projects
 - - 🌱 I'm constantly learning and exploring new technologies
   - - 💬 Ask me about **TypeScript, Node.js, React, NestJS**
-    - - 📫 Reach me at: [portfolio-wheat-alpha-52.vercel.app](https://portfolio-wheat-alpha-52.vercel.app)
-      - - 📍 Based in **Saudi Arabia**
+    - - 📫 Reach me at: [Hasan Al-Saafin](https://hasanalsaafin.me/)
+      - - 📍 Based in **Palestine**
        
         - ---
 
